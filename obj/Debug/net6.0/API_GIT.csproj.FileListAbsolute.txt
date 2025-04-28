@@ -25,3 +25,30 @@ D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\refint\API_GIT.
 D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.pdb
 D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.genruntimeconfig.cache
 D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\ref\API_GIT.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\appsettings.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.exe
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.deps.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.runtimeconfig.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.pdb
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.csproj.AssemblyReference.cache
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.AssemblyInfoInputs.cache
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.AssemblyInfo.cs
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.csproj.CoreCompileInputs.cache
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\scopedcss\bundle\API_GIT.styles.css
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.csproj.CopyComplete
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\refint\API_GIT.dll
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.pdb
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\API_GIT.genruntimeconfig.cache
+C:\Users\wwcrioll\Source\Repos\wcriollo\containers\obj\Debug\net6.0\ref\API_GIT.dll

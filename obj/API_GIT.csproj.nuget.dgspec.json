@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Descargas\\CURSO .net8\\DIa2\\API GIT\\API_GIT.csproj": {}
+    "C:\\Users\\wwcrioll\\Source\\Repos\\wcriollo\\containers\\API_GIT.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Descargas\\CURSO .net8\\DIa2\\API GIT\\API_GIT.csproj": {
+    "C:\\Users\\wwcrioll\\Source\\Repos\\wcriollo\\containers\\API_GIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Descargas\\CURSO .net8\\DIa2\\API GIT\\API_GIT.csproj",
+        "projectUniqueName": "C:\\Users\\wwcrioll\\Source\\Repos\\wcriollo\\containers\\API_GIT.csproj",
         "projectName": "API_GIT",
-        "projectPath": "D:\\Documents\\Descargas\\CURSO .net8\\DIa2\\API GIT\\API_GIT.csproj",
+        "projectPath": "C:\\Users\\wwcrioll\\Source\\Repos\\wcriollo\\containers\\API_GIT.csproj",
         "packagesPath": "C:\\Users\\wwcrioll\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Descargas\\CURSO .net8\\DIa2\\API GIT\\obj\\",
+        "outputPath": "C:\\Users\\wwcrioll\\Source\\Repos\\wcriollo\\containers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
