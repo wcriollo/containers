@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace API_GIT.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -20,7 +19,12 @@ namespace API_GIT.Controllers
             _configuration = configuration;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet]
+        // [ActionName("Get")]
+         [Route("[controller]/Get")]
+
+
+
         public IEnumerable<WeatherForecast> Get()
         {
             var key = _configuration["Tag_log"];
@@ -34,5 +38,25 @@ namespace API_GIT.Controllers
             })
             .ToArray();
         }
+
+
+        [HttpGet]
+        //  [ActionName("GetProducts")]
+        [Route("[controller]/GetProducts")]
+
+        public IEnumerable<WeatherForecast> GetProducts()
+        {
+            var key = _configuration["Tag_log"];
+
+            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            {
+                Date = DateTime.Now.AddDays(index),
+                TemperatureC = Random.Shared.Next(-20, 55),
+                Summary = Summaries[Random.Shared.Next(Summaries.Length)],
+                Environment = "PRODUCTOS:" + key
+            })
+            .ToArray();
+        }
+
     }
 }

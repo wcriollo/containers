@@ -1,30 +1,3 @@
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\appsettings.Development.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\appsettings.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\API_GIT.exe
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\API_GIT.deps.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\API_GIT.runtimeconfig.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\API_GIT.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\API_GIT.pdb
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.csproj.AssemblyReference.cache
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.GeneratedMSBuildEditorConfig.editorconfig
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.AssemblyInfoInputs.cache
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.AssemblyInfo.cs
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.csproj.CoreCompileInputs.cache
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.MvcApplicationPartsAssemblyInfo.cs
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.MvcApplicationPartsAssemblyInfo.cache
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\staticwebassets.build.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\staticwebassets.development.json
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\scopedcss\bundle\API_GIT.styles.css
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.csproj.CopyComplete
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\refint\API_GIT.dll
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.pdb
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\API_GIT.genruntimeconfig.cache
-D:\Documents\Descargas\CURSO .net8\DIa2\API GIT\obj\Debug\net6.0\ref\API_GIT.dll
 C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\appsettings.json
 C:\Users\wwcrioll\Source\Repos\wcriollo\containers\bin\Debug\net6.0\API_GIT.exe
