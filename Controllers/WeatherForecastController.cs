@@ -53,7 +53,7 @@ namespace API_GIT.Controllers
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = Random.Shared.Next(-20, 55),
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)],
-                Environment = "API-CAMBIOS1 :" + key
+                Environment = "API-CAMBIOS-WCJ :" + key
             })
             .ToArray();
         }
